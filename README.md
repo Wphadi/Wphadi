@@ -10,7 +10,6 @@
   </p>
 
   <p align="center">
-    <a href="mailto:phatanabdulhadi786@gmail.com"><img src="https://img.shields.io/badge/Email-phatanabdulhadi786%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://github.com/Wphadi"><img src="https://img.shields.io/badge/GitHub-Wphadi-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <img src="https://komarev.com/ghpvc/?username=Wphadi&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
@@ -114,9 +113,6 @@ I'm always excited to collaborate on innovative projects, build scalable web & m
 
 <div align="center">
 
-  <a href="mailto:phatanabdulhadi786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://github.com/Wphadi">
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
